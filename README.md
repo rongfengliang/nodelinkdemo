@@ -3,6 +3,7 @@
 ## prerequire
 
 ```bash
+cd usermodule && yarn
 npm link usermodule
 ```
 
