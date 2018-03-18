@@ -1,6 +1,6 @@
 # npm link example
 
-## prequire
+## prerequire
 
 ```bash
 npm link usermodule
